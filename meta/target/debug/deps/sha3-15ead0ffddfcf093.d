@@ -1,0 +1,11 @@
+/home/edi/Desktop/learning/estar-sale/meta/target/debug/deps/sha3-15ead0ffddfcf093.rmeta: /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/edi/Desktop/learning/estar-sale/meta/target/debug/deps/libsha3-15ead0ffddfcf093.rlib: /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/edi/Desktop/learning/estar-sale/meta/target/debug/deps/sha3-15ead0ffddfcf093.d: /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs:
+/home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs:
+/home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs:
+/home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs:
+/home/edi/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs:
